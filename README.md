@@ -1,4 +1,4 @@
-hello new
+hello old
 ######
 
 my first golang program
